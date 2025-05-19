@@ -22,17 +22,29 @@ Key Objectives:
 
 ## 4. Project Structure
 ├── README.md
+
 ├── data
+
 │ └── raw <- Daegu_Real_Estate.csv
+
 │
+
 ├── models <- Saved models using joblib
+
 │
+
 ├── notebooks <- Capstone Modul 3.ipynb
+
 │
+
 ├── reports <- Visualizations, SHAP plots, learning curves
+
 │ └── figures
+
 │
+
 └── src <- Preprocessing pipelines, model training scripts
+
 
 ## 5. Summary of Finding
 ### 5.1 Business Insight
